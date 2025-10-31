@@ -163,4 +163,4 @@ The analysis aims to support **data-driven HR decision-making** by linking emplo
 **Mostafa ElRkhawy**  
 _Data Analyst | Python | Power BI | SQL | Excel_
 
-📧 Contact: [LinkedIn Profile](www.linkedin.com/in/mostafa-elrkhawy) | [Gmail]((mostafaelrkhawy7@gmail.com))  
+📧 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/mostafa-elrkhawy) | [Gmail](mailto:mostafaelrkhawy7@gmail.com)
