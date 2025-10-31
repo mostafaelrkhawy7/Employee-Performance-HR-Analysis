@@ -130,7 +130,7 @@ The analysis aims to support **data-driven HR decision-making** by linking emplo
 - **Bonus Ratio by Job Title**
 - **Employee Status by Department**
 
-*(Visuals created with Matplotlib & Seaborn $ plotly)*
+*(Visuals created with Matplotlib & Seaborn & plotly)*
 
 ---
 
