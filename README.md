@@ -156,6 +156,24 @@ The analysis aims to support **data-driven HR decision-making** by linking emplo
 - Develop department-level KPIs using these findings.  
 - Create **HR dashboards** to monitor real-time performance and engagement trends.
 
+##  How to Run the Project
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/mostafaelrkhawy7/Employee-Performance-HR-Analysis.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd Employee-Performance-HR-Analysis-Project
+    ```
+3.  Ensure Data is Present:
+    Make sure the `HR_Dataset_Unclean.xlsx` file is located in the same directory as the Jupyter Notebook.
+    
+4.  Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+    ```
+5.  Open and run the `HR Analysis Project.ipynb` file in Jupyter Notebook or JupyterLab.
 
 ---
 
