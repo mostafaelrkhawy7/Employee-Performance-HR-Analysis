@@ -46,7 +46,6 @@ The analysis aims to support **data-driven HR decision-making** by linking emplo
 | `AgeGroup` | Young (<30), Mid (30–45), Senior (>45) |
 | `BonusRatio` | Derived from Bonus relative to Salary |
 | `PerformanceRate` | Categorized as High / Low |
-| `YearsAtCompany_str` | Readable label (e.g., "3y 2m") for visualizations |
 
 ---
 
@@ -130,7 +129,7 @@ The analysis aims to support **data-driven HR decision-making** by linking emplo
 - **Bonus Ratio by Job Title**
 - **Employee Status by Department**
 
-*(Visuals created with Matplotlib & Seaborn & plotly)*
+*(Visuals created with Matplotlib & Seaborn)*
 
 ---
 
